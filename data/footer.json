@@ -1,0 +1,47 @@
+{
+  "footer": [
+    {
+      "links": [
+        {
+          "title": "Accès rapide",
+          "innerItem": [
+            {
+              "link": "/contact",
+              "text": "Nous contacter"
+            },
+            {
+              "link": "/pricing",
+              "text": "Tarifs"
+            },
+            {
+              "link": "/team",
+              "text": "Notre équipe"
+            }
+          ]
+        }
+      ],
+      "services": [
+        {
+          "title": "Informations",
+          "innerItem": [
+            {
+              "link": "/privacy-policy",
+              "text": "Politique de confidentialité"
+            },
+            {
+              "link": "/terms-policy",
+              "text": "Conditions d'utilisation"
+            }
+          ]
+        }
+      ],
+      "contact": [
+        {
+          "location": "47 Bd de Pesaro, 92000 Nanterre, France",
+          "mail": "contact@prospero.fr",
+          "number": "+33 6 00 00 00 00"
+        }
+      ]
+    }
+  ]
+}

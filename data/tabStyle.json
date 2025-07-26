@@ -1,0 +1,161 @@
+{
+  "TabStyleOne": [
+    {
+      "title": "Organisez vos investissements efficacement.",
+      "img": "/images/generator-img/chat-export-vedio.png",
+      "menuId": "organisation",
+      "text": "Organisation",
+      "target": "organisation",
+      "iconImg": "/images/icons/organisation.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Liste d'entreprises"
+        },
+        {
+          "text": "Liste de vos investissements"
+        },
+        {
+          "text": "Upload de vos documents"
+        },
+        {
+          "text": "Ajout de vos investissements"
+        }
+      ]
+    },
+    {
+      "title": "Visualisez vos investissements de manière claire.",
+      "img": "/images/generator-img/chat-export-audio.png",
+      "menuId": "visualisation",
+      "text": "Visualisation",
+      "target": "visualisation",
+      "iconImg": "/images/icons/visualisation.png",
+      "isSelect": true,
+      "subItem": [
+        {
+          "text": "Graphiques dynamiques"
+        },
+        {
+          "text": "Tableau de bord interactif"
+        },
+        {
+          "text": "Courbes de performance"
+        },
+        {
+          "text": "Regroupement par catégorie"
+        }
+      ]
+    },
+    {
+      "title": "Faites analyser vos documents par notre IA spécialisée.",
+      "img": "/images/generator-img/chat-export-photo.png",
+      "menuId": "analyse",
+      "text": "Analyse",
+      "target": "analyse",
+      "iconImg": "/images/icons/analyse.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Analyse de documents PDF"
+        },
+        {
+          "text": "Analyse de rapports KPIs"
+        },
+        {
+          "text": "Automatisation des analyses"
+        },
+        {
+          "text": "Remplissage automatique des données"
+        }
+      ]
+    },
+    {
+      "title": "Mettez en commun vos investissements avec vos partenaires.",
+      "img": "/images/generator-img/chat-export.png",
+      "menuId": "partage",
+      "text": "Partage",
+      "target": "partage",
+      "iconImg": "/images/icons/share.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Partage de portefeuille"
+        },
+        {
+          "text": "Partage de documents"
+        },
+        {
+          "text": "Création de groupes"
+        },
+        {
+          "text": "Gestion de données groupées"
+        }
+      ]
+    },
+    {
+      "title": "Comparez vos investissements présent et passé.",
+      "img": "/images/generator-img/chat-export-code.png",
+      "menuId": "comparaison",
+      "text": "Comparaison",
+      "target": "comparaison",
+      "iconImg": "/images/icons/compare.png",
+      "isSelect": false,
+      "subItem": [
+        {
+          "text": "Comparaison de vos investissements"
+        },
+        {
+          "text": "Graphiques de comparaison"
+        },
+        {
+          "text": "Suivi de performance"
+        },
+        {
+          "text": "Historique des investissements"
+        }
+      ]
+    }
+  ],
+  "advanceTab": [
+    {
+      "tabId": "ia",
+      "target": "ia-tab",
+      "isSelect": true,
+      "menuText": "IA sur mesure",
+      "img": "/images/split/split-1.png",
+      "subTitle": "Notre outil le plus demandé",
+      "title": "Configurez par nos experts",
+      "desc": "L'outil IA est configuré par analyser vos documents et en extraire les informations."
+    },
+    {
+      "tabId": "dashboard",
+      "target": "dashboard-tab",
+      "isSelect": false,
+      "menuText": "Dashboard sur mesure",
+      "img": "/images/split/split-4.png",
+      "subTitle": "Comment ça marche ?",
+      "title": "Configurez votre dashboard",
+      "desc": "Mettez en place votre dashboard pour que vous puissiez voir les informations qui vous intéressent."
+    },
+    {
+      "tabId": "suivi",
+      "target": "suivi-tab",
+      "isSelect": false,
+      "menuText": "Suivi des investissements",
+      "img": "/images/split/split-3.png",
+      "subTitle": "Suivez vos investissements",
+      "title": "Suivi détaillé des investissements",
+      "desc": "Les graphiques s'adapte automatiquement pour afficher le plus d'informations possible."
+    },
+    {
+      "tabId": "data",
+      "target": "data-tab",
+      "isSelect": false,
+      "menuText": "Créer des groupes",
+      "img": "/images/split/split-5.png",
+      "subTitle": "Gestion de vos données",
+      "title": "Créez des groupes entre partenaires",
+      "desc": "Gérez vos données de manière efficace et partagez-les avec vos partenaires et/ou vos assistants."
+    }
+  ]
+}

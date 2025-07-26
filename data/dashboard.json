@@ -1,0 +1,34 @@
+{
+  "accordion": [
+    {
+      "title": "Comment Prospero peut-il m'aider à gérer mes investissements ?",
+      "desc": "Prospero centralise et organise toutes vos données d'investissement, vous permettant de les exploiter efficacement et de prendre des décisions éclairées.",
+      "isExpand": true
+    },
+    {
+      "title": "Puis-je personnaliser le tableau de bord de Prospero ?",
+      "desc": "Oui, Prospero offre un tableau de bord personnalisable qui vous permet de visualiser les informations les plus pertinentes pour vos besoins spécifiques.",
+      "isExpand": false
+    },
+    {
+      "title": "Prospero est-il compatible avec mes outils actuels ?",
+      "desc": "Prospero est conçu pour s'intégrer facilement avec vos outils existants comme Notion, Airtable, et Google Docs, assurant une transition en douceur.",
+      "isExpand": false
+    },
+    {
+      "title": "Comment Prospero assure-t-il la sécurité de mes données ?",
+      "desc": "La sécurité de vos données est notre priorité. Prospero utilise des protocoles de sécurité avancés pour protéger vos informations sensibles.",
+      "isExpand": false
+    },
+    {
+      "title": "Est-ce que Prospero peut m'aider à économiser du temps ?",
+      "desc": "Absolument, en automatisant l'extraction et la structuration des données, Prospero vous permet de vous concentrer sur l'analyse plutôt que sur le traitement manuel.",
+      "isExpand": false
+    },
+    {
+      "title": "Quels types de rapports puis-je générer avec Prospero ?",
+      "desc": "Prospero vous permet de générer divers rapports personnalisés, vous aidant à suivre les performances et à identifier les opportunités d'investissement.",
+      "isExpand": false
+    }
+  ]
+}

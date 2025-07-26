@@ -1,0 +1,54 @@
+{
+  "serviceOne": [
+    {
+      "img": "/images/icons/problem.png",
+      "title": "Un problème ?",
+      "desc": "Nos experts vous répondent rapidement et essaient de vous aider à trouver la meilleure solution."
+    },
+    {
+      "img": "/images/icons/time.png",
+      "title": "Gain de temps assuré",
+      "desc": "Vous n'avez plus besoin de chercher dans les documents, nos outils peuvent le faire pour vous."
+    },
+    {
+      "img": "/images/icons/everyone.png",
+      "title": "Un outil pour tous",
+      "desc": "Notre outil est conçu pour être utilisé par tous, l'objectif est de vous aider à mieux comprendre vos investissements."
+    },
+    {
+      "img": "/images/icons/ask.png",
+      "title": "Des besoins spécifiques ?",
+      "desc": "Nous sommes à votre écoute pour vous aider et créer des outils spécifiques à vos besoins."
+    },
+    {
+      "img": "/images/icons/bogue.png",
+      "title": "Un bug ?",
+      "desc": "Nos experts techniques sont disponibles 24/7 pour corriger les bugs et les problèmes, le plus rapidement possible."
+    },
+    {
+      "img": "/images/icons/best.png",
+      "title": "Nous regroupons le meilleur",
+      "desc": "Contrairement à d'autres outils, nous regroupons le meilleur de ce qui se trouve sur le marché."
+    }
+  ],
+  "serviceTwo": [
+    {
+      "img": "/images/service/service-icon-01.png",
+      "imgLight": "/images/light/service/service-icon-01.png",
+      "title": "100% Satisfaction garantie",
+      "desc": "Nous traitons tous vos retours et nous faisons de notre mieux pour vous satisfaire."
+    },
+    {
+      "img": "/images/service/service-icon-02.png",
+      "imgLight": "/images/light/service/service-icon-02.png",
+      "title": "Support technique disponible 24/7",
+      "desc": "Vous pouvez contacter notre équipe de support technique, sans frais ni pénalités."
+    },
+    {
+      "img": "/images/service/service-icon-03.png",
+      "imgLight": "/images/light/service/service-icon-03.png",
+      "title": "Vous n'êtes pas satisfait ?",
+      "desc": "Dites nous ce que vous ne aimez pas et nous adapterons notre outil pour vous."
+    }
+  ]
+}

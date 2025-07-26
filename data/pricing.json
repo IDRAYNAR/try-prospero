@@ -1,0 +1,236 @@
+{
+  "pricing": [
+    {
+      "priceId": "nav-home",
+      "priceType": "Mensuel",
+      "discount": "",
+      "isSelect": false,
+      "priceBody": [
+        {
+          "id": 1,
+          "priceId": "nav-home",
+          "isSelect": false,
+          "isShow": false,
+          "classNum": "one",
+          "subTitle": "Basique",
+          "title": "Pour les débutants ou ceux qui veulent tester",
+          "price": "20€",
+          "priceFor": "/Par mois",
+          "limited": "",
+          "text": "Fonctionnalités",
+          "iconClass": "fa-regular fa-circle-radiation",
+          "listItem": [
+            {
+              "text": "Accès aux outils de base"
+            },
+            {
+              "text": "Support technique"
+            },
+            {
+              "text": "Accès pour un utilisateur"
+            },
+            {
+              "text": "Accès à l'outil IA (20 analyses par mois)"
+            },
+            {
+              "text": "Accès à certaines fonctionnalités BETA"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "priceId": "nav-home",
+          "isSelect": false,
+          "isShow": true,
+          "classNum": "two",
+          "subTitle": "Intermédiaire",
+          "title": "Pour ceux qui veulent aller plus loin",
+          "price": "60€",
+          "priceFor": "/Par mois",
+          "limited": "Offre limitée",
+          "text": "Fonctionnalités",
+          "iconClass": "fa-sharp fa-regular fa-flower",
+          "listItem": [
+            {
+              "text": "Tout les avantages de la formule Basique"
+            },
+            {
+              "text": "Accès à l'outil IA (50 analyses par mois)"
+            },
+            {
+              "text": "Accès à un plus grand nombre de fonctionnalités BETA"
+            },
+            {
+              "text": "Support technique prioritaire"
+            },
+            {
+              "text": "Déblocage du système de groupe"
+            },
+            {
+              "text": "Possibilité de partager le compte avec vos collaborateurs (5 utilisateurs)"
+            },
+            {
+              "text": "Vous pouvez inviter une personne à essayer l'outil gratuitement pour 1 mois"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "priceId": "nav-home",
+          "isSelect": true,
+          "isShow": true,
+          "classNum": "three",
+          "subTitle": "Avancé",
+          "title": "Pour ceux qui savent ce qu'ils veulent",
+          "price": "200€",
+          "priceFor": "/Par mois",
+          "limited": "Offre spéciale",
+          "text": "Fonctionnalités",
+          "iconClass": "fa-sharp fa-regular fa-waveform-lines",
+          "listItem": [
+            {
+              "text": "Tout les avantages de la formule Basique"
+            },
+            {
+              "text": "Tout les avantages de la formule Intermédiaire"
+            },
+            {
+              "text": "Accès à l'outil IA illimité"
+            },
+            {
+              "text": "Accès à toutes les fonctionnalités BETA"
+            },
+            {
+              "text": "Support technique dédié 24/7"
+            },
+            {
+              "text": "Possibilité de partager le compte avec vos collaborateurs (10 utilisateurs)"
+            },
+            {
+              "text": "Vous pouvez inviter une personne à essayer l'outil gratuitement pour 1 an"
+            },
+            {
+              "text": "Un grand merci de la part de l'équipe de Prospero"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "priceId": "nav-profile",
+      "priceType": "Annuel",
+      "discount": "10%",
+      "isSelect": true,
+      "priceBody": [
+        {
+          "id": 1,
+          "priceId": "nav-profile",
+          "isSelect": false,
+          "isShow": false,
+          "classNum": "one",
+          "subTitle": "Basique",
+          "title": "Pour les débutants ou ceux qui veulent tester",
+          "price": "180€",
+          "priceFor": "/Par an",
+          "limited": "Offre limitée",
+          "text": "Fonctionnalités",
+          "iconClass": "fa-regular fa-circle-radiation",
+          "listItem": [
+            {
+              "text": "Accès aux outils de base"
+            },
+            {
+              "text": "Support technique"
+            },
+            {
+              "text": "Accès pour un utilisateur"
+            },
+            {
+              "text": "Accès à l'outil IA (20 analyses par mois)"
+            },
+            {
+              "text": "Accès à certaines fonctionnalités BETA"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "priceId": "nav-profile",
+          "isSelect": false,
+          "isShow": true,
+          "classNum": "two",
+          "subTitle": "Intermédiaire",
+          "title": "Pour ceux qui veulent aller plus loin",
+          "price": "648€",
+          "priceFor": "/Par an",
+          "limited": "Offre limitée",
+          "text": "Fonctionnalités",
+          "iconClass": "fa-sharp fa-regular fa-flower",
+          "listItem": [
+            {
+              "text": "Tout les avantages de la formule Basique"
+            },
+            {
+              "text": "Accès à l'outil IA (50 analyses par mois)"
+            },
+            {
+              "text": "Accès à un plus grand nombre de fonctionnalités BETA"
+            },
+            {
+              "text": "Support technique prioritaire"
+            },
+            {
+              "text": "Déblocage du système de groupe"
+            },
+            {
+              "text": "Possibilité de partager le compte avec vos collaborateurs (5 utilisateurs)"
+            },
+            {
+              "text": "Vous pouvez inviter une personne à essayer l'outil gratuitement pour 1 mois"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "priceId": "nav-profile",
+          "isSelect": true,
+          "isShow": true,
+          "classNum": "three",
+          "subTitle": "Avancé",
+          "title": "Pour ceux qui savent ce qu'ils veulent",
+          "price": "2160€",
+          "priceFor": "/Par an",
+          "limited": "Offre spéciale",
+          "text": "Fonctionnalités",
+          "iconClass": "fa-sharp fa-regular fa-waveform-lines",
+          "listItem": [
+            {
+              "text": "Tout les avantages de la formule Basique"
+            },
+            {
+              "text": "Tout les avantages de la formule Intermédiaire"
+            },
+            {
+              "text": "Accès à l'outil IA illimité"
+            },
+            {
+              "text": "Accès à toutes les fonctionnalités BETA"
+            },
+            {
+              "text": "Support technique dédié 24/7"
+            },
+            {
+              "text": "Possibilité de partager le compte avec vos collaborateurs (10 utilisateurs)"
+            },
+            {
+              "text": "Vous pouvez inviter une personne à essayer l'outil gratuitement pour 1 an"
+            },
+            {
+              "text": "Un grand merci de la part de l'équipe de Prospero"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
