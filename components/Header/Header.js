@@ -7,7 +7,7 @@ import { useRouter, usePathname } from "next/navigation";
 
 import { useAppContext } from "@/context/Context";
 
-import logoDark from "../../public/images/light/logo/logo-dark.png";
+import logoDark from "../../public/images/light/logo/logo-prospero-blue.svg";
 import Nav from "./Nav";
 
 const Header = ({ headerTransparent, headerSticky, btnClass }) => {
