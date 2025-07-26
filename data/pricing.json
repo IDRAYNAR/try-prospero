@@ -14,7 +14,7 @@
           "classNum": "one",
           "subTitle": "Basique",
           "title": "Pour les débutants ou ceux qui veulent tester",
-          "price": "20€",
+          "price": "29€",
           "priceFor": "/Par mois",
           "limited": "",
           "text": "Fonctionnalités",
@@ -25,13 +25,13 @@
               "text": "Accès aux outils de base"
             },
             {
-              "text": "Support technique"
+              "text": "Support technique standard"
             },
             {
               "text": "Accès pour un utilisateur"
             },
             {
-              "text": "Accès à l'outil IA (20 analyses par mois)"
+              "text": "Accès à l'outil IA (30 analyses par mois)"
             },
             {
               "text": "Accès à certaines fonctionnalités BETA"
@@ -46,7 +46,7 @@
           "classNum": "two",
           "subTitle": "Intermédiaire",
           "title": "Pour ceux qui veulent aller plus loin",
-          "price": "60€",
+          "price": "79€",
           "priceFor": "/Par mois",
           "limited": "",
           "text": "Fonctionnalités",
@@ -54,10 +54,10 @@
           "textButton": "Obtenir Intermédiaire",
           "listItem": [
             {
-              "text": "Tout les avantages de la formule Basique"
+              "text": "Tous les avantages de la formule Basique"
             },
             {
-              "text": "Accès à l'outil IA (50 analyses par mois)"
+              "text": "Accès à l'outil IA (100 analyses par mois)"
             },
             {
               "text": "Accès à un plus grand nombre de fonctionnalités BETA"
@@ -84,7 +84,7 @@
           "classNum": "three",
           "subTitle": "Avancé",
           "title": "Pour ceux qui savent ce qu'ils veulent",
-          "price": "200€",
+          "price": "149€",
           "priceFor": "/Par mois",
           "limited": "",
           "text": "Fonctionnalités",
@@ -92,10 +92,10 @@
           "textButton": "Obtenir Avancé",
           "listItem": [
             {
-              "text": "Tout les avantages de la formule Basique"
+              "text": "Tous les avantages de la formule Basique"
             },
             {
-              "text": "Tout les avantages de la formule Intermédiaire"
+              "text": "Tous les avantages de la formule Intermédiaire"
             },
             {
               "text": "Accès à l'outil IA illimité"
@@ -122,7 +122,7 @@
     {
       "priceId": "nav-profile",
       "priceType": "Annuel",
-      "discount": "10%",
+      "discount": "15%",
       "isSelect": true,
       "priceBody": [
         {
@@ -133,7 +133,7 @@
           "classNum": "one",
           "subTitle": "Basique",
           "title": "Pour les débutants ou ceux qui veulent tester",
-          "price": "180€",
+          "price": "290€",
           "priceFor": "/Par an",
           "limited": "",
           "text": "Fonctionnalités",
@@ -144,13 +144,13 @@
               "text": "Accès aux outils de base"
             },
             {
-              "text": "Support technique"
+              "text": "Support technique standard"
             },
             {
               "text": "Accès pour un utilisateur"
             },
             {
-              "text": "Accès à l'outil IA (20 analyses par mois)"
+              "text": "Accès à l'outil IA (30 analyses par mois)"
             },
             {
               "text": "Accès à certaines fonctionnalités BETA"
@@ -165,7 +165,7 @@
           "classNum": "two",
           "subTitle": "Intermédiaire",
           "title": "Pour ceux qui veulent aller plus loin",
-          "price": "648€",
+          "price": "790€",
           "priceFor": "/Par an",
           "limited": "",
           "text": "Fonctionnalités",
@@ -173,10 +173,10 @@
           "textButton": "Obtenir Intermédiaire",
           "listItem": [
             {
-              "text": "Tout les avantages de la formule Basique"
+              "text": "Tous les avantages de la formule Basique"
             },
             {
-              "text": "Accès à l'outil IA (50 analyses par mois)"
+              "text": "Accès à l'outil IA (100 analyses par mois)"
             },
             {
               "text": "Accès à un plus grand nombre de fonctionnalités BETA"
@@ -203,7 +203,7 @@
           "classNum": "three",
           "subTitle": "Avancé",
           "title": "Pour ceux qui savent ce qu'ils veulent",
-          "price": "2160€",
+          "price": "1490€",
           "priceFor": "/Par an",
           "limited": "",
           "text": "Fonctionnalités",
@@ -211,10 +211,10 @@
           "textButton": "Obtenir Avancé",
           "listItem": [
             {
-              "text": "Tout les avantages de la formule Basique"
+              "text": "Tous les avantages de la formule Basique"
             },
             {
-              "text": "Tout les avantages de la formule Intermédiaire"
+              "text": "Tous les avantages de la formule Intermédiaire"
             },
             {
               "text": "Accès à l'outil IA illimité"

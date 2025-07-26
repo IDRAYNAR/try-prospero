@@ -52,20 +52,20 @@ const Compare = ({ subTitle, title, postion, titleType }) => {
                     <h6>Tarification</h6>
                   </td>
                   <td>
-                    <h6>20€ / mois</h6>
+                    <h6>29€ / mois</h6>
                   </td>
                   <td>
-                    <h6>60€ / mois</h6>
+                    <h6>79€ / mois</h6>
                   </td>
                   <td>
-                    <h6>200€ / mois</h6>
+                    <h6>149€ / mois</h6>
                   </td>
                 </tr>
                 <tr>
                   <td>Coût Annuel</td>
-                  <td>216€</td>
-                  <td>648€</td>
-                  <td>2160€</td>
+                  <td>290€</td>
+                  <td>790€</td>
+                  <td>1490€</td>
                 </tr>
                 <tr className="heading-row">
                   <td>
@@ -100,7 +100,7 @@ const Compare = ({ subTitle, title, postion, titleType }) => {
                   </td>
                 </tr>
                 <tr>
-                  <td>Support technique</td>
+                  <td>Support technique standard</td>
                   <td>
                     <span className="icon">
                       <i className="feather-check"></i>
@@ -119,8 +119,8 @@ const Compare = ({ subTitle, title, postion, titleType }) => {
                 </tr>
                 <tr>
                   <td>Accès à l'outil IA</td>
-                  <td>20 analyses/mois</td>
-                  <td>50 analyses/mois</td>
+                  <td>30 analyses/mois</td>
+                  <td>100 analyses/mois</td>
                   <td>Illimité</td>
                 </tr>
                 <tr>
