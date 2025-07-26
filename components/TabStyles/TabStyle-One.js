@@ -3,6 +3,13 @@ import Image from "next/image";
 import React from "react";
 
 import TabData from "../../data/tabStyle.json";
+import Listes from "../../public/images/fonctionnalites/listes.png";
+import GlobalMetrics from "../../public/images/fonctionnalites/globalMetrics.png";
+import Compare from "../../public/images/fonctionnalites/compare.png";
+import Metrics from "../../public/images/fonctionnalites/metrics.png";
+import Analyze from "../../public/images/fonctionnalites/analyze.png";
+import Investment from "../../public/images/fonctionnalites/investment.png";
+import Logs from "../../public/images/fonctionnalites/logs.png";
 
 const TabStyleOne = () => {
   return (
@@ -79,7 +86,21 @@ const TabStyleOne = () => {
                             <div className="inner-without-padding">
                               <div className="export-img img-bg-shape">
                                 <Image
-                                  src={tab.img}
+                                  src={
+                                    index === 0
+                                      ? Listes
+                                      : index === 1
+                                      ? Metrics
+                                      : index === 2
+                                      ? Analyze
+                                      : index === 3
+                                      ? Investment
+                                      : index === 4
+                                      ? Compare
+                                      : index === 5
+                                      ? GlobalMetrics
+                                      : tab.img
+                                  }
                                   width={569}
                                   height={483}
                                   alt="Chat example Image"

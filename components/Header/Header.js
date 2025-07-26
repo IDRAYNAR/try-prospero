@@ -70,7 +70,7 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
               <div className="header-right">
                 <div className="header-btn">
                   <Link className={`${btnClass}`} href="/home">
-                    <span>Dashboard</span>
+                    <span>Ouvrir</span>
                   </Link>
                 </div>
 

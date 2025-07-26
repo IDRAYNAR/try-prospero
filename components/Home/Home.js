@@ -135,7 +135,13 @@ const Home = () => {
             </div>
             <div className="col-lg-11 col-xl-11 justify-content-center">
               <div className="slider-frame">
-                <div style={{ position: "relative", width: "fit-content", display: "inline-block" }}>
+                <div
+                  style={{
+                    position: "relative",
+                    width: "fit-content",
+                    display: "inline-block",
+                  }}
+                >
                   <Image
                     className="slider-image-effect"
                     src={bannerWhiteImg}
@@ -152,7 +158,8 @@ const Home = () => {
                       bottom: 0,
                       height: "25%",
                       borderRadius: "0 0 5px 5px",
-                      background: "linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%)",
+                      background:
+                        "linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%)",
                       pointerEvents: "none",
                     }}
                   />
@@ -240,7 +247,9 @@ const Home = () => {
                 data-sal-delay="150"
               >
                 <h4 className="subtitle">
-                  <span className="theme-gradient">Les avantages de Prospero</span>
+                  <span className="theme-gradient">
+                    Les avantages de Prospero
+                  </span>
                 </h4>
                 <h2 className="title mb--60">
                   Pourquoi nous ? <br /> Et pas un autre.
@@ -274,7 +283,9 @@ const Home = () => {
                 data-sal-delay="100"
               >
                 <h4 className="subtitle ">
-                  <span className="theme-gradient">Un outil, plusieurs entreprises</span>
+                  <span className="theme-gradient">
+                    Un outil, plusieurs entreprises
+                  </span>
                 </h4>
                 <h2 className="title mb--20">
                   Gérez tout vos investissements
@@ -383,13 +394,13 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="prospero-service-area rainbow-section-gap">
+      {/* <div className="prospero-service-area rainbow-section-gap">
         <div className="container">
           <div className="row row--15 service-wrapper">
             <ServiceTwo />
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="rainbow-testimonial-area rainbow-section-gap">
         <div className="container">
@@ -402,7 +413,9 @@ const Home = () => {
                 data-sal-delay="150"
               >
                 <h4 className="subtitle">
-                  <span className="theme-gradient">Ce que l'on dit de nous</span>
+                  <span className="theme-gradient">
+                    Ce que l'on dit de nous
+                  </span>
                 </h4>
                 <h2 className="title mb--60">L'avis de ceux qui l'utilisent</h2>
               </div>
@@ -422,7 +435,9 @@ const Home = () => {
                 data-sal-duration="700"
                 data-sal-delay="100"
               >
-                <p className="subtitle mb--0">Basé sur un échantillon de 15 avis</p>
+                <p className="subtitle mb--0">
+                  Basé sur un échantillon de 15 avis
+                </p>
               </div>
             </div>
           </div>

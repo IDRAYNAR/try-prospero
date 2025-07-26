@@ -10,8 +10,10 @@ const Copyright = () => {
             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
               <div className="copyright-right text-center">
                 <p className="copyright-text">
-                  Copyright © 2025{" "}
-                  <span className="text-white">Prospero.</span>
+                  © 2024 - 2025{" "}
+                  <span className="text-white">
+                    Tous droits réservés par Prospero - Projet PIE.
+                  </span>
                 </p>
               </div>
             </div>

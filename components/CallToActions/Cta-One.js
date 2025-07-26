@@ -24,7 +24,7 @@ const CtaOne = () => {
                 data-sal-duration="400"
                 data-sal-delay="200"
               >
-                Rejoignez notre communauté d'experts
+                Optimisez la gestion de votre portefeuille
               </h4>
               <p
                 className="sal-animate"
@@ -32,7 +32,8 @@ const CtaOne = () => {
                 data-sal-duration="400"
                 data-sal-delay="300"
               >
-                Rejoignez notre communauté d'experts et découvrez comment nous pouvons vous aider à mieux comprendre vos investissements.
+                Pilotez vos investissements en temps réel grâce à une plateforme
+                qui centralise, structure et analyse vos données.
               </p>
             </div>
           </div>
@@ -54,7 +55,7 @@ const CtaOne = () => {
                 />
               </div>
               <Link className="btn-default" href="#">
-                Rejoignez maintenant
+                Essayer maintenant
               </Link>
             </div>
           </div>

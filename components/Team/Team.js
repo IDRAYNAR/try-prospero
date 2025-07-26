@@ -15,6 +15,23 @@ const Team = () => {
     <>
       <div className="rbt-team-area bg-color-1 rainbow-section-gap-big pb--0">
         <div className="container">
+          <div className="row mb--60">
+            <div className="col-lg-12">
+              <div
+                className="section-title text-center"
+                data-sal="slide-up"
+                data-sal-duration="400"
+                data-sal-delay="150"
+              >
+                <h4 className="subtitle">
+                  <span className="theme-gradient">Équipe Prospero</span>
+                </h4>
+                <h2 className="title w-600 mb--20">
+                  Les fondateurs de Prospero
+                </h2>
+              </div>
+            </div>
+          </div>
           <div className="row row--15 mt_dec--30">
             {TeamData &&
               TeamData.team.slice(0, 3).map((data, index) => (
@@ -38,7 +55,11 @@ const Team = () => {
                     </div>
                     <ul className="social-icon">
                       <li>
-                        <a href={data.linkedin} target="_blank" rel="noopener noreferrer">
+                        <a
+                          href={data.linkedin}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
                           <i className="fab fa-linkedin-in"></i>
                         </a>
                       </li>
@@ -63,7 +84,10 @@ const Team = () => {
                 <h4 className="subtitle">
                   <span className="theme-gradient">Équipe Prospero</span>
                 </h4>
-                <h2 className="title w-600 mb--20">Nous sommes là pour vous servir</h2>
+                <h2 className="title w-600 mb--20">
+                  Nous sommes là pour créer des outils pour vous aider à mieux
+                  comprendre vos investissements
+                </h2>
               </div>
             </div>
           </div>

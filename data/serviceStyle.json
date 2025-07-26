@@ -2,8 +2,8 @@
   "serviceOne": [
     {
       "img": "/images/icons/problem.png",
-      "title": "Un problème ?",
-      "desc": "Nos experts vous répondent rapidement et essaient de vous aider à trouver la meilleure solution."
+      "title": "Réduire les erreurs manuelles",
+      "desc": "Les données sont extraites, structurées et analysées automatiquement, pour une fiabilité maximale."
     },
     {
       "img": "/images/icons/time.png",
@@ -12,22 +12,22 @@
     },
     {
       "img": "/images/icons/everyone.png",
-      "title": "Un outil pour tous",
-      "desc": "Notre outil est conçu pour être utilisé par tous, l'objectif est de vous aider à mieux comprendre vos investissements."
+      "title": "Une data-visualisation claire",
+      "desc": "Visualisez instantanément les KPIs de votre portefeuille avec des graphiques clairs et intuitifs."
     },
     {
       "img": "/images/icons/ask.png",
-      "title": "Des besoins spécifiques ?",
-      "desc": "Nous sommes à votre écoute pour vous aider et créer des outils spécifiques à vos besoins."
+      "title": "La donnée comme levier",
+      "desc": "Transformez vos données en avantage stratégique pour mieux piloter vos investissements."
     },
     {
       "img": "/images/icons/bogue.png",
-      "title": "Un bug ?",
-      "desc": "Nos experts techniques sont disponibles 24/7 pour corriger les bugs et les problèmes, le plus rapidement possible."
+      "title": "Tous vos documents, centralisés",
+      "desc": "Fini la chasse aux PDF : retrouvez board packs, KPIs et rapports centralisés, organisés et accessibles à tout moment."
     },
     {
       "img": "/images/icons/best.png",
-      "title": "Nous regroupons le meilleur",
+      "title": "Un outil pour tous",
       "desc": "Contrairement à d'autres outils, nous regroupons le meilleur de ce qui se trouve sur le marché."
     }
   ],

@@ -121,20 +121,20 @@
       "tabId": "ia",
       "target": "ia-tab",
       "isSelect": true,
-      "menuText": "IA sur mesure",
-      "img": "/images/split/split-1.png",
-      "subTitle": "Notre outil le plus demandé",
-      "title": "Configurez par nos experts",
-      "desc": "L'outil IA est configuré par analyser vos documents et en extraire les informations."
+      "menuText": "Journal des activités",
+      "img": "/images/split/logs.png",
+      "subTitle": "Gardez une trace claire de chaque action",
+      "title": "Un historique complet à portée de clic",
+      "desc": "Suivez toutes les interactions, extractions et mises à jour de données sur la plateforme, pour une traçabilité totale et une meilleure collaboration."
     },
     {
       "tabId": "dashboard",
       "target": "dashboard-tab",
       "isSelect": false,
-      "menuText": "Dashboard sur mesure",
-      "img": "/images/split/split-4.png",
+      "menuText": "Data-visualisation sur mesure",
+      "img": "/images/split/queries.png",
       "subTitle": "Comment ça marche ?",
-      "title": "Configurez votre dashboard",
+      "title": "Configurez vos données graphiques",
       "desc": "Mettez en place votre dashboard pour que vous puissiez voir les informations qui vous intéressent."
     },
     {
@@ -142,7 +142,7 @@
       "target": "suivi-tab",
       "isSelect": false,
       "menuText": "Suivi des investissements",
-      "img": "/images/split/split-3.png",
+      "img": "/images/split/metrics.png",
       "subTitle": "Suivez vos investissements",
       "title": "Suivi détaillé des investissements",
       "desc": "Les graphiques s'adapte automatiquement pour afficher le plus d'informations possible."
@@ -152,9 +152,9 @@
       "target": "data-tab",
       "isSelect": false,
       "menuText": "Créer des groupes",
-      "img": "/images/split/split-5.png",
-      "subTitle": "Gestion de vos données",
-      "title": "Créez des groupes entre partenaires",
+      "img": "/images/split/detailsdocument.png",
+      "subTitle": "Gestion de vos documents financiers",
+      "title": "Analyser des documents KPIs de vos investissements",
       "desc": "Gérez vos données de manière efficace et partagez-les avec vos partenaires et/ou vos assistants."
     }
   ]

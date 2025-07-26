@@ -55,11 +55,11 @@ const PricingPage = () => {
                           <span className="theme-gradient">Tarification</span>
                         </h4>
                         <h2 className="title w-600 mb--20">
-                          Commencez votre voyage de contenu avec l'IA
+                          Votre parcours d'investissement augmenté commence ici
                         </h2>
                         <p className="description b1">
-                          Collaborez avec l'IA pour générer du contenu qui
-                          résonne.
+                          Utiliser prospero pour organiser votre porte feuille
+                          d'investissements.
                         </p>
                       </div>
                       <nav className="prospero-tab">
@@ -146,7 +146,12 @@ const PricingPage = () => {
               </div>
 
               <div className="bg-shape-left">
-                <Image src={bgShape} width={688} height={1055} alt="Forme de fond" />
+                <Image
+                  src={bgShape}
+                  width={688}
+                  height={1055}
+                  alt="Forme de fond"
+                />
               </div>
             </div>
 
@@ -180,7 +185,8 @@ const PricingPage = () => {
                         data-sal-duration="400"
                         data-sal-delay="300"
                       >
-                        Vous ne trouvez pas votre réponse ici ? Envoyez-nous simplement un message pour toute question.
+                        Vous ne trouvez pas votre réponse ici ? Envoyez-nous
+                        simplement un message pour toute question.
                       </p>
                       <div
                         className="contact-button mt--35 sal-animate"

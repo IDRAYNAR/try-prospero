@@ -7,7 +7,7 @@ import Sal from "sal.js";
 
 import playApp from "../../public/images/cta-img/play-app.png";
 import appleApp from "../../public/images/cta-img/apple-app.png";
-import viewImg from "../../public/images/cta-img/view-img.png";
+import viewImg from "../../public/images/cta-img/illustration-login-v2.png";
 import bgShape from "../../public/images/cta-img/bg-shape.png";
 import bgLight from "../../public/images/bg/bg-shape-tree.png";
 
@@ -33,9 +33,7 @@ const CtaTwo = () => {
                       Essayez dès maintenant
                     </span>
                   </h4>
-                  <h2 className="title w-600 mb--20">
-                    Prospero
-                  </h2>
+                  <h2 className="title w-600 mb--20">Prospero</h2>
                   <p className="description b1">
                     L'outil de gestion de portefeuille le plus complet
                     <br />

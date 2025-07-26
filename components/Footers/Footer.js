@@ -28,12 +28,16 @@ const Footer = () => {
                     </Link>
                   </div>
                   <p className="b1 desc-text">
-                    Prospero est un outil qui vous aide à gérer vos investissements.
+                    Prospero est un outil qui vous aide à gérer vos
+                    investissements.
                   </p>
                   <h6 className="subtitle">Rejoignez notre newsletter</h6>
                   <form className="newsletter-form" action="#">
                     <div className="form-group">
-                      <input type="email" placeholder="Enter Your Email Here" />
+                      <input
+                        type="email"
+                        placeholder="Entrer votre email ici"
+                      />
                       <button
                         className="btn-default bg-solid-primary"
                         type="submit"
