@@ -106,9 +106,9 @@ const Pricing = ({ start, end, parentClass, isBadge, gap }) => {
                                   ? "color-blacked"
                                   : "btn-border"
                               }`}
-                              href="#"
+                              style={{ cursor: 'pointer' }}
                             >
-                              C'est parti !
+                              {innerData.textButton}
                             </a>
                             <p className="bottom-text">{innerData.limited}</p>
                           </div>

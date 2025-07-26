@@ -17,35 +17,21 @@ const Footer = () => {
               <div className="col-lg-4 col-md-6 col-sm-12 col-12">
                 <div className="rainbow-footer-widget">
                   <div className="logo">
-                    <Link href="/">
                       <Image
                         className="logo-light"
                         src={logo}
                         width={135}
                         height={35}
-                        alt="ChatBot Logo"
+                        alt="Prospero Logo"
                       />
-                    </Link>
                   </div>
                   <p className="b1 desc-text">
-                    Prospero est un outil qui vous aide à gérer vos
-                    investissements.
+                    L'outil de gestion de portefeuille le plus complet
+                    <br />
+                    qui permet de suivre vos investissements facilement
+                    <br />
+                    et dynamiquement.
                   </p>
-                  <h6 className="subtitle">Rejoignez notre newsletter</h6>
-                  <form className="newsletter-form" action="#">
-                    <div className="form-group">
-                      <input
-                        type="email"
-                        placeholder="Entrer votre email ici"
-                      />
-                      <button
-                        className="btn-default bg-solid-primary"
-                        type="submit"
-                      >
-                        <i className="fa-sharp fa-regular fa-arrow-right"></i>
-                      </button>
-                    </div>
-                  </form>
                 </div>
               </div>
 
@@ -78,15 +64,15 @@ const Footer = () => {
                             <ul className="footer-link contact-link">
                               <li>
                                 <i className="contact-icon fa-regular fa-location-dot"></i>
-                                <Link href="#">{inner.location}</Link>
+                                <Link href={`https://www.google.com/maps/search/${inner.location}`} target="_blank" rel="noopener noreferrer">{inner.location}</Link>
                               </li>
                               <li>
                                 <i className="contact-icon fa-sharp fa-regular fa-envelope"></i>
-                                <Link href="#">{inner.mail}</Link>
+                                <Link href={`mailto:${inner.mail}`}>{inner.mail}</Link>
                               </li>
                               <li>
                                 <i className="contact-icon fa-regular fa-phone"></i>
-                                <Link href="#">{inner.number}</Link>
+                                <Link href={`tel:${inner.number}`}>{inner.number}</Link>
                               </li>
                             </ul>
                           </div>

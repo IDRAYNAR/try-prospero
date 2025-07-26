@@ -11,7 +11,7 @@ const FooterProps = ({ list }) => {
             <ul className="footer-link link-hover">
               {item.innerItem.map((inner, i) => (
                 <li key={i}>
-                  <Link href={inner.link}>{inner.text}</Link>
+                  <Link href={inner.link} rel="noopener noreferrer">{inner.text}</Link>
                 </li>
               ))}
             </ul>

@@ -293,7 +293,7 @@ const Home = () => {
                 </h2>
                 <Link
                   className="btn-default btn-large color-blacked"
-                  href="/contact"
+                  href="/informations"
                 >
                   Découvrez Prospero{" "}
                   <i className="fa-sharp fa-light fa-arrow-right ml--5"></i>

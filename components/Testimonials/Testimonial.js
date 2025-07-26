@@ -81,7 +81,7 @@ const Testimonial = () => {
                     <div className="inner">
                       <div className="rating">
                         {[...Array(5)].map((_, i) => (
-                          <a href="#rating" key={i}>
+                          <a key={i}>
                             <i
                               className={
                                 i < data.stars
@@ -109,11 +109,11 @@ const Testimonial = () => {
                             </div>
                           </div>
                           <div className="meta-img-section">
-                            <a className="image" href="#">
+                            <a className="image">
                               <Image
                                 src={data.userImg}
-                                width={43}
-                                height={43}
+                                width={80}
+                                height={80}
                                 alt=""
                               />
                             </a>

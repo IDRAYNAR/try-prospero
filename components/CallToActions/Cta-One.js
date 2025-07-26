@@ -54,7 +54,11 @@ const CtaOne = () => {
                   alt="Group Image"
                 />
               </div>
-              <Link className="btn-default" href="#">
+              <Link
+                className="btn-default"
+                href="https://tryprospero.fr/"
+                rel="noopener noreferrer"
+              >
                 Essayer maintenant
               </Link>
             </div>

@@ -63,8 +63,8 @@ const PopupMobileMenu = () => {
           <div className="header-btn d-block d-md-none">
             <Link
               className="btn-default"
-              target="_blank"
-              href="/text-generator"
+              href="https://tryprospero.fr/"
+              rel="noopener noreferrer"
             >
               Accéder à Prospero
             </Link>

@@ -1,6 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import Link from "next/link";
 
 import b1 from "../../public/images/brand/tcm.png";
 import b2 from "../../public/images/brand/cmp.png";
@@ -17,18 +16,16 @@ const BrandTwo = () => {
     <>
       <div className="row">
         <div className="col-lg-12 mt--10">
-          <ul className="brand-list brand-style-2 flex items-center justify-center">
+          <ul className="brand-list brand-style-2 flex items-center justify-center align-items-center" style={{ opacity: 0.25 }}>
             {[b1, b2, b3, b4, b5, b6].map((brand, index) => (
               <li key={index}>
-                <Link href="#">
-                  <Image
-                    src={brand}
-                    width={w}
-                    height={h}
-                    alt="Brand Image"
-                    style={{ opacity: 0.45 }}
-                  />
-                </Link>
+                <Image
+                  src={brand}
+                  width={w}
+                  height={h}
+                  alt="Brand Image"
+                  style={{ filter: "brightness(0)" }}
+                />
               </li>
             ))}
           </ul>

@@ -73,7 +73,7 @@ const BrandList = () => {
         className="brand-list brand-style-2 slider-brand slider-brand-activation"
       >
         <li className="slide-single-layout">
-          <Link href="#">
+          <Link href="https://www.xange.vc/" target="_blank">
             <Image
               src={brandImg1}
               width={132}
@@ -83,7 +83,7 @@ const BrandList = () => {
           </Link>
         </li>
         <li className="slide-single-layout">
-          <Link href="#">
+          <Link href="https://reench.com/" target="_blank">
             <Image
               src={brandImg2}
               width={132}
@@ -93,7 +93,7 @@ const BrandList = () => {
           </Link>
         </li>
         <li className="slide-single-layout">
-          <Link href="#">
+          <Link href="https://thecodingmachine.com/" target="_blank">
             <Image
               src={brandImg3}
               width={110}
@@ -103,7 +103,7 @@ const BrandList = () => {
           </Link>
         </li>
         <li className="slide-single-layout">
-          <Link href="#">
+          <Link href="https://www.linkedin.com/company/stack-48" target="_blank">
             <Image
               src={brandImg4}
               width={165}
@@ -113,7 +113,7 @@ const BrandList = () => {
           </Link>
         </li>
         <li className="slide-single-layout">
-          <Link href="#">
+          <Link href="https://www.collective.work/collective/eido" target="_blank">
             <Image
               src={brandImg5}
               width={132}
@@ -123,7 +123,7 @@ const BrandList = () => {
           </Link>
         </li>
         <li className="slide-single-layout">
-          <Link href="#">
+          <Link href="https://www.groupecmp.com/" target="_blank">
             <Image
               src={brandImg6}
               width={151}

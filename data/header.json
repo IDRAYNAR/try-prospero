@@ -1,30 +1,4 @@
 {
-  "navDashboardItem": [
-    {
-      "link": "/profile-details",
-      "text": "Profile"
-    },
-    {
-      "link": "/notification",
-      "text": "Notification"
-    },
-    {
-      "link": "/chat-export",
-      "text": "Chat Export"
-    },
-    {
-      "link": "/appearance",
-      "text": "Appearance"
-    },
-    {
-      "link": "/plans-billing",
-      "text": "Plans and Billing"
-    },
-    {
-      "link": "/sessions",
-      "text": "Sessions"
-    }
-  ],
   "nav": [
     {
       "link": "/home",
@@ -37,6 +11,12 @@
       "isIcon": false,
       "isMenu": false,
       "text": "Tarifs"
+    },
+    {
+      "link": "/informations",
+      "isIcon": false,
+      "isMenu": false,
+      "text": "Informations"
     },
     {
       "link": "/team",

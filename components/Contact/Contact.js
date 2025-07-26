@@ -23,7 +23,6 @@ const Contact = () => {
                       >
                         <li role="presentation">
                           <a
-                            href="#"
                             className="tab-button active"
                             id="image-genarator-tab"
                             data-bs-toggle="tab"
@@ -31,13 +30,13 @@ const Contact = () => {
                             role="tab"
                             aria-controls="image-genarator"
                             aria-selected="true"
+                            style={{ cursor: 'pointer' }}
                           >
                             <span className="title">Tarifs</span>
                           </a>
                         </li>
                         <li role="presentation">
                           <a
-                            href="#"
                             className="tab-button"
                             id="photo-editor-tab"
                             data-bs-toggle="tab"
@@ -45,13 +44,13 @@ const Contact = () => {
                             role="tab"
                             aria-controls="photo-editor"
                             aria-selected="true"
+                            style={{ cursor: 'pointer' }}
                           >
                             <span className="title">Technique</span>
                           </a>
                         </li>
                         <li role="presentation">
                           <a
-                            href="#"
                             className="tab-button"
                             id="email-genarator-tab"
                             data-bs-toggle="tab"
@@ -59,13 +58,13 @@ const Contact = () => {
                             role="tab"
                             aria-controls="email-genarator"
                             aria-selected="true"
+                            style={{ cursor: 'pointer' }}
                           >
                             <span className="title">Commerciale</span>
                           </a>
                         </li>
                         <li role="presentation">
                           <a
-                            href="#"
                             className="tab-button"
                             id="code-genarator-tab"
                             data-bs-toggle="tab"
@@ -73,6 +72,7 @@ const Contact = () => {
                             role="tab"
                             aria-controls="code-genarator"
                             aria-selected="true"
+                            style={{ cursor: 'pointer' }}
                           >
                             <span className="title">Sécurité</span>
                           </a>
@@ -136,7 +136,7 @@ const Contact = () => {
                   <div className="inner">
                     <h4 className="title">Numéro de téléphone</h4>
                     <p className="b2">
-                      <Link href="#">+33 6 00 00 00 00</Link>
+                      <Link href="tel:+33600000000">+33 6 00 00 00 00</Link>
                     </p>
                   </div>
                 </div>

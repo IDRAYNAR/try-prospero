@@ -19,7 +19,6 @@ import BackToTop from "../backToTop";
 import Pricing from "@/components/Pricing/Pricing";
 import BrandTwo from "@/components/Brands/Brand-Two";
 import Compare from "@/components/Pricing/Compare";
-import TestimonialTwo from "@/components/Testimonials/TestimonialTwo";
 import AccordionItem from "@/components/Accordion/AccordionItem";
 import CtaTwo from "@/components/CallToActions/Cta-Two";
 
@@ -120,19 +119,19 @@ const PricingPage = () => {
                       data-sal-delay="100"
                     >
                       <div className="rating">
-                        <a href="#rating">
+                        <a>
                           <i className="fa-sharp fa-solid fa-star"></i>
                         </a>
-                        <a href="#rating">
+                        <a>
                           <i className="fa-sharp fa-solid fa-star"></i>
                         </a>
-                        <a href="#rating">
+                        <a>
                           <i className="fa-sharp fa-solid fa-star"></i>
                         </a>
-                        <a href="#rating">
+                        <a>
                           <i className="fa-sharp fa-solid fa-star"></i>
                         </a>
-                        <a href="#rating">
+                        <a>
                           <i className="fa-sharp fa-solid fa-star"></i>
                         </a>
                       </div>

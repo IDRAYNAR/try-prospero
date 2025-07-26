@@ -48,13 +48,13 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
           <div className="row align-items-center row--0">
             <div className="col-lg-2 col-md-6 col-6">
               <div className="logo">
-                <Link href="/home">
+                <Link href="/">
                   <Image
                     className="logo-light"
                     src={logoDark}
                     width={135}
                     height={35}
-                    alt="ChatBot Logo"
+                    alt="Prospero Logo"
                   />
                 </Link>
               </div>
@@ -69,7 +69,11 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
             <div className="col-lg-2 col-md-6 col-6 position-static">
               <div className="header-right">
                 <div className="header-btn">
-                  <Link className={`${btnClass}`} href="/home">
+                  <Link
+                    className={`${btnClass}`}
+                    href="https://tryprospero.fr/"
+                    rel="noopener noreferrer"
+                  >
                     <span>Ouvrir</span>
                   </Link>
                 </div>

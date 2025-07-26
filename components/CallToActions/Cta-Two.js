@@ -43,7 +43,7 @@ const CtaTwo = () => {
                   </p>
                 </div>
                 <div className="app-store-btn">
-                  <Link className="btn-default btn-large" href="#">
+                  <Link className="btn-default btn-large" href="https://tryprospero.fr/" rel="noopener noreferrer">
                     Commencer
                     <i className="fa-sharp fa-light fa-arrow-right ml--5"></i>
                   </Link>
@@ -55,6 +55,7 @@ const CtaTwo = () => {
                     src={viewImg}
                     width={449}
                     height={499}
+                    style={{ borderRadius: "5px" }}
                     alt="Mobile View"
                   />
                 </div>

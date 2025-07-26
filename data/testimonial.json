@@ -3,22 +3,22 @@
     {
       "isActive": true,
       "isBorder": true,
-      "desc": "J'ai eu l'opportunité de tester Prospero avant sa sortie officielle grâce à Rayan. L'interface est intuitive et les fonctionnalités sont prometteuses. Je suis impressionné par la réactivité de l'équipe.",
-      "name": "Sophie Martin",
+      "desc": "L'interface est intuitive et permet une gestion efficace. Les analyses automatisées réduisent significativement le temps de traitement des données.",
+      "name": "Sophie",
       "post": "Gestionnaire de patrimoine",
-      "userImg": "/images/team/team-01sm.jpg",
+      "userImg": "/images/team/sophie.jpg",
       "brandImg": "/images/brand/eido.png",
       "img": "/images/service/bg-testimonial.png",
       "imgHover": "/images/service/bg-testimonial-hover.png",
       "lightImg": "/images/light/service/bg-testimonial.png",
       "lightImgHover": "/images/light/service/bg-testimonial-hover.png",
-      "stars": 5
+      "stars": 4
     },
     {
-      "desc": "Grâce à Esteban, j'ai pu essayer Prospero en avant-première. L'outil est complet et bien pensé, même si j'ai eu besoin d'un peu de temps pour m'y habituer. Le support a été d'une grande aide.",
-      "name": "Julien Lefèvre",
+      "desc": "L'application offre une bonne vision d'ensemble des investissements. Les alertes personnalisées fonctionnent correctement et sont utiles pour le suivi.",
+      "name": "Julien",
       "post": "Entrepreneur",
-      "userImg": "/images/team/team-01sm.jpg",
+      "userImg": "/images/team/julien.jpg",
       "brandImg": "/images/brand/cmp.png",
       "img": "/images/service/bg-testimonial.png",
       "imgHover": "/images/service/bg-testimonial-hover.png",
@@ -27,23 +27,23 @@
       "stars": 4
     },
     {
-      "desc": "Raphaël m'a permis de tester Prospero avant sa sortie. Les analyses IA sont précises et m'ont fait gagner un temps précieux. Quelques ajustements sont encore nécessaires, outil est prometteur.",
-      "name": "Claire Dubois",
+      "desc": "Les analyses IA fournissent des résultats cohérents. L'optimisation des portefeuilles fonctionne bien avec des recommandations pertinentes.",
+      "name": "Claire",
       "post": "Analyste financière",
-      "userImg": "/images/team/team-01sm.jpg",
+      "userImg": "/images/team/claire.jpg",
       "brandImg": "/images/brand/reench.png",
       "img": "/images/service/bg-testimonial.png",
       "imgHover": "/images/service/bg-testimonial-hover.png",
       "lightImg": "/images/light/service/bg-testimonial.png",
       "lightImgHover": "/images/light/service/bg-testimonial-hover.png",
-      "stars": 4
+      "stars": 3
     },
     {
       "isActive": true,
-      "desc": "Alban m'a donné accès à Prospero avant sa sortie. C'est un bon outil pour suivre mes placements, mais j'aurais apprécié plus de tutoriels pour débutants. L'équipe est cependant très à l'écoute et explique bien.",
-      "name": "Marc Petit",
+      "desc": "L'outil est accessible et simple d'utilisation pour le suivi des placements. L'interface est claire et l'accompagnement fonctionne bien.",
+      "name": "Marc",
       "post": "Retraité",
-      "userImg": "/images/team/team-01sm.jpg",
+      "userImg": "/images/team/marc.jpg",
       "brandImg": "/images/brand/stack.png",
       "img": "/images/service/bg-testimonial.png",
       "imgHover": "/images/service/bg-testimonial-hover.png",
@@ -52,28 +52,28 @@
       "stars": 3
     },
     {
-      "desc": "J'ai eu la chance de tester Prospero grâce à Ludo. Les fonctionnalités sont innovantes et le design est agréable. Je le recommande à mes collègues pour sa facilité d'utilisation.",
-      "name": "Fatou Ndiaye",
+      "desc": "Les fonctionnalités de comparaison et d'optimisation sont bien implémentées. L'innovation technologique apporte une vraie valeur ajoutée.",
+      "name": "Fatou",
       "post": "Consultante",
-      "userImg": "/images/team/team-01sm.jpg",
+      "userImg": "/images/team/fatou.jpg",
       "brandImg": "/images/brand/xange.png",
       "img": "/images/service/bg-testimonial.png",
       "imgHover": "/images/service/bg-testimonial-hover.png",
       "lightImg": "/images/light/service/bg-testimonial.png",
       "lightImgHover": "/images/light/service/bg-testimonial-hover.png",
-      "stars": 5
+      "stars": 4
     },
     {
-      "desc": "Alban m'a permis de découvrir Prospero avant sa sortie. L'expérience est globalement positive, malgré quelques lenteurs. L'équipe technique est réactive et l'outil reste un atout pour mes analyses.",
-      "name": "Lucas Bernard",
+      "desc": "L'application facilite la compréhension des marchés financiers. Les tutoriels intégrés sont bien structurés et adaptés à l'apprentissage.",
+      "name": "Lucas",
       "post": "Étudiant en économie",
-      "userImg": "/images/team/team-01sm.jpg",
+      "userImg": "/images/team/lucas.jpg",
       "brandImg": "/images/brand/tcm.png",
       "img": "/images/service/bg-testimonial.png",
       "imgHover": "/images/service/bg-testimonial-hover.png",
       "lightImg": "/images/light/service/bg-testimonial.png",
       "lightImgHover": "/images/light/service/bg-testimonial-hover.png",
-      "stars": 4
+      "stars": 3
     }
   ]
 }
