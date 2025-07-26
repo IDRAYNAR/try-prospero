@@ -25,31 +25,36 @@
       "img": "/images/team/rayan.png",
       "name": "IDRI Rayan",
       "profission": "Développeur Front-end / DevOps",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "linkedin": "https://fr.linkedin.com/in/rayan-idri"
     },
     {
       "img": "/images/team/yoann.jpg",
-      "name": "CHAMBREUX Yoann",
+      "name": "CHAMBEUX Yoann",
       "profission": "Développeur Front-end / DevOps",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "linkedin": "https://fr.linkedin.com/in/yoann-chambeux"
     },
     {
       "img": "/images/team/raphael.png",
       "name": "TRUONG Raphael",
       "profission": "Développeur Front-end",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "linkedin": "https://fr.linkedin.com/in/raphael-truong-4a0a171b6"
     },
     {
       "img": "/images/team/theo.png",
       "name": "LANDA Theo",
       "profission": "Développeur Front-end",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "linkedin": "https://fr.linkedin.com/in/th%C3%A9o-landa-550529332"
     },
     {
       "img": "/images/team/esteban.jpg",
       "name": "QUINONES Esteban",
       "profission": "Développeur Backend / DevOps",
-      "location": "Paris, France"
+      "location": "Paris, France",
+      "linkedin": "https://fr.linkedin.com/in/esteban-quinones-acosta"
     }
   ]
 }

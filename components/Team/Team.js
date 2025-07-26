@@ -24,10 +24,10 @@ const Team = () => {
                 data-sal-delay="150"
               >
                 <h4 className="subtitle">
-                  <span className="theme-gradient">Équipe Prospero</span>
+                  <span className="theme-gradient">Direction Prospero</span>
                 </h4>
                 <h2 className="title w-600 mb--20">
-                  Les fondateurs de Prospero
+                  Les fondateurs
                 </h2>
               </div>
             </div>
@@ -58,6 +58,8 @@ const Team = () => {
                         <a
                           href={data.linkedin}
                           target="_blank"
+                          className="text-black bg-white"
+                          style={{ borderRadius: "50%", padding: "5px 10px", width: "30px", height: "30px", border: "2px solid #3B71D6", cursor: "pointer" }}
                           rel="noopener noreferrer"
                         >
                           <i className="fab fa-linkedin-in"></i>
@@ -82,11 +84,10 @@ const Team = () => {
                 data-sal-delay="150"
               >
                 <h4 className="subtitle">
-                  <span className="theme-gradient">Équipe Prospero</span>
+                  <span className="theme-gradient">Staff Prospero</span>
                 </h4>
                 <h2 className="title w-600 mb--20">
-                  Nous sommes là pour créer des outils pour vous aider à mieux
-                  comprendre vos investissements
+                  L'équipe technique
                 </h2>
               </div>
             </div>
@@ -106,6 +107,11 @@ const Team = () => {
                           style={{ aspectRatio: "1/1", objectFit: "cover" }}
                           alt="Modèle d'entreprise"
                         />
+                        <div className="linkedin-icon" style={{ position: "absolute", top: "45px", right: "50px", zIndex: "1000" }}>
+                          <a href={data.linkedin} target="_blank" rel="noopener noreferrer">
+                            <i className="fab fa-linkedin-in" style={{ textDecoration: "none", color: "white", fontSize: "16px" }}></i>
+                          </a>
+                        </div>
                       </div>
                       <div className="content">
                         <h2 className="title">{data.name}</h2>
